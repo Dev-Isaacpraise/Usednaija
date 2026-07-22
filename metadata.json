@@ -1,0 +1,6 @@
+{
+  "name": "Usednaija Store - Coming Soon",
+  "description": "Nigeria's trusted marketplace for verified used household items. Launching August 10, 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

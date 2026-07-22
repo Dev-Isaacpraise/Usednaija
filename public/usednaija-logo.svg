@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 450 140" fill="none">
+  <!-- Cart Handle and Frame -->
+  <path d="M 24 36 C 36 36, 44 38, 52 56 L 68 100 C 70 106, 76 110, 84 110 L 156 110 C 164 110, 170 104, 172 96 L 186 50 C 188 42, 182 38, 174 38 L 56 38" stroke="#0A3944" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Inner Cart Accent U-shape -->
+  <path d="M 72 52 L 78 84 C 80 92, 90 96, 102 96 C 114 96, 124 92, 126 84 L 132 52" stroke="#0A3944" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 76 56 C 84 72, 90 78, 102 78 C 112 78, 120 70, 124 56" stroke="#DA5E02" stroke-width="8" stroke-linecap="round"/>
+
+  <!-- Left Wheel -->
+  <circle cx="82" cy="128" r="12" fill="#0A3944"/>
+  <circle cx="82" cy="128" r="6" fill="#FFFFFF"/>
+  <path d="M 82 116 L 82 140 M 70 128 L 94 128" stroke="#0A3944" stroke-width="3"/>
+
+  <!-- Right Wheel -->
+  <circle cx="148" cy="128" r="12" fill="#0A3944"/>
+  <circle cx="148" cy="128" r="6" fill="#FFFFFF"/>
+  <path d="M 148 116 L 148 140 M 136 128 L 160 128" stroke="#0A3944" stroke-width="3"/>
+
+  <!-- Text UsedNaija -->
+  <text x="200" y="94" font-family="Plus Jakarta Sans, system-ui, sans-serif" font-size="70" font-weight="800" letter-spacing="-2">
+    <tspan fill="#0A3944">Used</tspan><tspan fill="#DA5E02">Naija</tspan>
+  </text>
+</svg>
