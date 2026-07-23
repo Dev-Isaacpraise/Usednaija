@@ -20,11 +20,10 @@ export const UsedNaijaLogo: React.FC<UsedNaijaLogoProps> = ({
   return (
     <div className={`inline-flex items-center shrink-0 select-none ${className}`}>
       <img
-        src="/usednaija-logo.svg"
-        alt="UsedNaija Logo"
-        className={`${sizeClasses[size]} w-auto object-contain ${
-          variant === 'dark' ? 'brightness-0 invert' : ''
-        }`}
+        src="/logo.png"
+        alt="Usednaija Logo"
+        className={`${sizeClasses[size]} w-auto object-contain ${variant === 'dark' ? 'brightness-0 invert' : ''
+          }`}
       />
     </div>
   );
